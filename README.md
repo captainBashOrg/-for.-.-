@@ -28,8 +28,8 @@ for i in range ( len(numbers) ):
 if  (len (uno)) >0:
     print("единички", uno)
 if  (len(primes)) > 0:
-    print("простые", not_primes)
-if  (len(primes)) > 0:
+    print("простые", primes)
+if  (len(not_primes)) > 0:
     print("Непростые", not_primes)
 
 
